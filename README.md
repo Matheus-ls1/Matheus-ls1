@@ -10,11 +10,29 @@ Me chamo Matheus Lucas da Silva, tenho 23 anos. Atualmente estou cursando o quin
 
 <img 
     align="left" 
+    alt="JAVA" 
+    title="JAVA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <img 
