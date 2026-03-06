@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Lucas da Silva, tenho 23 anos. Atualmente estou cursando o quinto semestre de Engenharia de Software pela PUCPR. Sou um grande entusiasta do mundo da tecnologia, sempre procurando aprender e me desafiar com projetos pessoais e acadêmicos.
+Me chamo Matheus Lucas da Silva, tenho 24 anos. Atualmente estou cursando o quinto semestre de Engenharia de Software pela PUCPR. Sou um grande entusiasta do mundo da tecnologia, sempre procurando aprender e me desafiar com projetos pessoais e acadêmicos.
 
 ##
 
