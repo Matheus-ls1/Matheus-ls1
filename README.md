@@ -89,6 +89,7 @@ Me chamo Matheus Lucas da Silva, tenho 24 anos. Atualmente estou cursando o quin
 <br/>
 <br/>
 
+<!--
 ### 📊 Estatísticas
 
 <p>
